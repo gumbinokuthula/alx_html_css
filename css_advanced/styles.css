@@ -1,0 +1,10 @@
+body {
+    background-color: #f0f0f0;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #ff5e57;
+    text-align: center; }
